@@ -11,12 +11,9 @@ To demonstrate a python program using dynamic programming for 0/1 knapsack probl
 
 ## Program:
 ```
-/*
-Developed by: LEANN JOBY MATHEW
-Register Number: 212222230074
-*/
-```
-```
+Developed by: Sana Fathima H
+Register Number: 212223240145
+
 def knapSack(W, wt, val, n):
 	if n == 0 or W == 0 :
 		return 0
