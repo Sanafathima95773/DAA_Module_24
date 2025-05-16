@@ -57,7 +57,7 @@ class Solution:
 obj=Solution()
 grid=[[0,1,-1],[1,0,-1],[1,1,1]]        
 print(obj.cherryPickup(grid))
-*/
+```
 
 
 ## Output:
